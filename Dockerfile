@@ -1,3 +1,3 @@
 # Dockerfile
 FROM alpine:latest
-CMD ["echo", "Hello from GitHub Packages!"]
+CMD ["echo", "Hello from GitHub Packages (updated)!"]
